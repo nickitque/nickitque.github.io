@@ -9,7 +9,7 @@ def about(request):
     return render(request, 'main/about.html')
 
 def shop(request):
-    return render(request, 'main/shop.html')
+    return render(request, 'main/skills.html')
 
 def test(request):
     return render(request, 'main/test.html')
