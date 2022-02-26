@@ -6,7 +6,5 @@ The Django project also only for representing the understanding of migrations, u
 <p>1. Download repo and unpack it locally.</p>
 <p>2. Open terminal in the directory where project is unpacked.</p>
 <p>3. Enter command "python manage.py runserver".</p>
-![image](https://user-images.githubusercontent.com/58918756/155845853-3b3668a8-f49f-4957-a7e1-eb88e7a2abca.png)
-
 <p>4. Follow the way in terminal (it should be http://127.0.0.1:8000/).</p>
 <p>5. To Quit the server use combination CTRL+C.</p>
