@@ -1,92 +1,5 @@
-/*** 
-
-====================================================================
-
-  Table of contents
-
-====================================================================
-
-
-
-- General Css Styles
-
-- Header Area style
-
-- Welcome Area Styles 
-
-- Partners area style
-
-- About us area style 
-
-- services-block-four style 
-
-- Demo-video area style 
-
-- Trust area style 
-
-- services area style 
-
-- Call-to-action area style
-
-- Video area style 
-
-- Gallery area style 
-
-- Cool-facts style 
-
-- Price table style
-
-- Testimonials area style 
-
-- Team area style
-
-- Blog area style 
-
-- Contact us style 
-
-- FAQ style -Timeline style 
-
-- Footer area style 
-
-
-
-***/
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,900');
-
-
-
-/*** 
-
-
-
-====================================================================
-
-  Import All Css
-
-====================================================================
-
-
-
-***/
-
-
-
-
-
-/*** 
-
-
-
-====================================================================
-
-  General css style
-
-====================================================================
-
-
-
-***/
 
 * {
 
@@ -182,6 +95,10 @@ p {
 
 .my-photo-rounded {
     border-radius: 25%;
+}
+
+.photo-rounded {
+    border-radius: 5%;
 }
 
 img {
@@ -7270,24 +7187,15 @@ p.artficial:before{
 
 .fullscreen-bg {
 
-  position: absolute;
-
-    top: 0
-
+    position: absolute;
+    top: 0;
     right: 0;
-
     bottom: 0;
-
     left: 0px;
-
     width: 58vw;
-
     height: 120vh;
-
     overflow: hidden;
-
     z-index: 0;
-
 }
 
 
@@ -15832,11 +15740,7 @@ body.light-version {
 
 }
 
-.token .service_single_content .service_icon{
 
-    
-
-}
 
 .token.v2 .service_single_content .service_icon{
 
