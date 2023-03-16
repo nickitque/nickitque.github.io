@@ -58,6 +58,10 @@ p {
     font-size: 15px;
 }
 
+#about {
+    margin-top: 100px;
+}
+
 .my-photo-rounded {
     border-radius: 25%;
 }
@@ -2883,6 +2887,10 @@ ol {
 
 }
 
+#courses-h2 {
+margin-top: 30px;
+}
+
 .bub-right {
 
     /* background: url('../img/bg-img.jpeg') no-repeat center right;  */
@@ -2900,11 +2908,8 @@ ol {
 .welcome-meter.bg:before {
 
     position: absolute;
-
     content: '';
-
     top: 0;
-
     left: 0;
 
     width: 100%;
